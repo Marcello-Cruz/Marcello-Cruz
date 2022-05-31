@@ -1,8 +1,11 @@
-- 👀 I’m interested in videogames and programming  lessons;
-- 🌱 I’m currently learning TI, html and other languages;
-- 📫 How to reach me: thumbinail@gmail.com, marcellinhopastelzinho@gmail.com, natsugameplays367@gmail.com;
+###- 👀 I’m interested in videogames and programming  lessons;
+###- 🌱 I’m currently learning TI, html and other languages;
+###- 📫 How to reach me: thumbinail@gmail.com, marcellinhopastelzinho@gmail.com, natsugameplays367@gmail.com;
 <h1 align="center">Hi 👋, I'm Marcello Cardozo da Cruz</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Marcello-Cruz" alt="Marcello-Cruz" /></a> </p>
 
