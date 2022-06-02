@@ -1,6 +1,6 @@
-<h1>- 👀 I’m interested in videogames and programming  lessons;
-- 🌱 I’m currently learning TI, html and other languages;
-- 📫 How to reach me: thumbinail@gmail.com, marcellinhopastelzinho@gmail.com, natsugameplays367@gmail.com;</h1>
+<h1>- 👀 I’m interested in videogames and programming  lessons;</h1>
+<h1- 🌱 I’m currently learning TI, html and other languages;</h1>
+<h1- 📫 How to reach me: thumbinail@gmail.com, marcellinhopastelzinho@gmail.com, natsugameplays367@gmail.com;</h1>
 <h1 align="center">Hi 👋, I'm Marcello Cardozo da Cruz</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
