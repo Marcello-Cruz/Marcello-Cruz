@@ -1,8 +1,10 @@
 <h1>- I’m interested in videogames and programming  lessons;</h1>
-<p>- 🌱 I’m currently learning TI, html and other languages;</p>
-<p>- 📫 How to reach me: thumbinail@gmail.com, marcellocardozodacruz@gmail.com, natsugameplays367@gmail.com, macketchum@gmail.com, cardozomarcello36@gmail.com;</p>
-<p>Discord: Corisco_MarcelloPT_BR#5337</p>
-<p>Linkedin: https://www.linkedin.com/in/marcello-cardozo-da-cruz-6a4249247/</p>
+<p>- 🌱 I’m currently learning IT, AI, HTML, CSS, JS and other languages;</p>
+<p>- 📫 How to reach me: marcellocardozodacruz@gmail.com, natsugameplays367@gmail.com, macketchum@gmail.com, cardozomarcello36@gmail.com;</p>
+<p>Discord: CorisCruz#5337 ; 
+<p>& 
+<p>Yung Lixo MC VV#5002 ;</p>
+<p>Linkedin: https://www.linkedin.com/in/marcello-da-cruz/</p>
 </h1>
 <h1 align="center">Hi 👋, I'm Marcello Cardozo da Cruz</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
